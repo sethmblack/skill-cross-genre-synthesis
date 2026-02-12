@@ -1,10 +1,9 @@
 ---
 name: cross-genre-synthesis
-description: Find connections across different domains, styles, or disciplines to
-  create something that transcends boundaries.
+description: Find connections across different domains, styles, or disciplines to create something that transcends boundaries.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - cross-genre-synthesis
